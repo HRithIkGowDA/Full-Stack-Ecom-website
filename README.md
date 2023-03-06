@@ -1,4 +1,4 @@
 # Amazon-Clone
 
 frontend deployed in netlify/..
-backend deployed in rnder  .
+backend deployed in render  .
